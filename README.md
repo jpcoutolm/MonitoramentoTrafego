@@ -35,7 +35,7 @@ Este projeto simula um sistema de monitoramento de dispositivos conectados a uma
 │   └── db.py          # Criação automática do banco SQLite
 │
 ├── frontend/
-│   └── app.py         # Interface com Streamlit e gráficos
+│   └── app-front.py         # Interface com Streamlit e gráficos
 │
 ├── database/          # Pasta onde o banco SQLite é gerado (vazia no repositório)
 │
