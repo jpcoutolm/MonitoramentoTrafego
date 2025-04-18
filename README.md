@@ -52,8 +52,8 @@ Este projeto simula um sistema de monitoramento de dispositivos conectados a uma
 ### 1. Clone o projeto
 
 ```bash
-git clone https://github.com/seu-usuario/monitoramento-rede.git
-cd monitoramento-rede
+git clone https://github.com/jpcoutolm/MonitoramentoTrafego.git
+cd MonitoramentoTrafego
 ```
 
 ### 2. Crie a pasta de banco (se não existir)
